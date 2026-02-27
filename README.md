@@ -254,7 +254,7 @@ Every second, the simulation displays:
 
 ## 🎓 Academic Context
 
-This project was developed as part of the Operating Systems course (Sistemi Operativi) 2023/24. It demonstrates:
+This project was developed as part of the Operating Systems course (Sistemi Operativi) during my ERASMUS+ Mobility in Italy. It demonstrates:
 
 - Multi-process programming
 - Inter-process communication
